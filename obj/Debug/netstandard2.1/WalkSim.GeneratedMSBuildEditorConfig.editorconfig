@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WalkSim
+build_property.ProjectDir = D:\WalkSim-2.0.6\WalkSim-2.0.6\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
