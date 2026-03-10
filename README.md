@@ -24,7 +24,7 @@ A mod for Gorilla Tag that simulates playing on VR while on PC
 
 # Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/WalkSim/releases/latest)
+- Download the release from [here](https://github.com/Cha554/Updated-WalkSim/releases/tag/3.0.0)
 - Drag the file `WalkSim.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
